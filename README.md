@@ -4,7 +4,7 @@
 Snooze Client - a Minecraft Pvp/Fps Modpack made with Mixins.
 
 # Languages i know
-![image](https://user-images.githubusercontent.com/88702612/182354073-9da66a45-f680-4f1b-9023-d7a387d66c97.png) Java
+![image](https://user-images.githubusercontent.com/88702612/182354218-98f1995f-4b02-42b9-8879-277b44e686b3.png) Java
 
 # Languages im learning soon
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
