@@ -5,10 +5,10 @@ I am a 16 year old Self-Learning Developer.
 Snooze Client - a Undetectable Minecraft Ghost Client.
 
 # Languages i know
- ![java](https://user-images.githubusercontent.com/88702612/182354775-d7d73e17-2400-47a9-94da-bc56b4788951.png) 2 Years of Java.
+ ![java](https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667) 2 Years of Java.
 
-# Languages im learning soon
-![awr](https://user-images.githubusercontent.com/88702612/182355136-f27d47ca-5599-4329-8af7-498f2cc5cadd.png) ![raev](https://user-images.githubusercontent.com/88702612/182355676-ec830e10-17e8-4a81-9ef0-fbfcf63e6704.png)
+# Technologies
+
 
 
 
