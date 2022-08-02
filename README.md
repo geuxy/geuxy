@@ -1,8 +1,13 @@
-### Hi there 👋
+### Heyo there, im Geuxy (He/Him) 👋
 
-<!--
-**geuxy/geuxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects
+Snooze Client - a Minecraft Pvp/Fps Modpack made with Mixins.
 
+# Languages i know
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
+# Currently learning
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
