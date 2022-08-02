@@ -16,7 +16,8 @@ I am a 16 year old Self-Learning Developer.
 
 
 # Soon Learning
-<img src ="https://user-images.githubusercontent.com/88702612/182362458-43333591-4113-4723-ac69-5b12d1ea6c78.png" width="46" height="46" />
+<img src ="https://user-images.githubusercontent.com/88702612/182362458-43333591-4113-4723-ac69-5b12d1ea6c78.png" width="46" height="46" /> <img src ="https://user-images.githubusercontent.com/88702612/182362706-98a54829-630b-44e0-a4d1-4f0dc95dff36.png" width="46" height="46" />
+
 
 
 
