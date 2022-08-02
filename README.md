@@ -2,6 +2,7 @@
 I am a 16 year old Self-Learning Developer.
 
 # Projects
+🔴 Rapid Client - a Minecraft Blatant Client. (DISCONTINUED).
 🌙 Snooze Client - a Undetectable Minecraft Ghost Client.
 
 # Operating Systems
