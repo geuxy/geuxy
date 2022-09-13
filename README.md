@@ -1,8 +1,10 @@
 ### Heyo there, im Geuxy (He/Him) 👋
 I am a 16 year old Self-Learning Developer.
 
+![Geuxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=geuxy&show_icons=true&theme=dark)
+
 # Projects
-🔴 Rapid Client - a Minecraft Blatant Client. (DISCONTINUED SINCE 2021).<br/>🌙 Snooze Client - a Undetectable Minecraft Ghost Client (STARTING PROJECT SOON).
+🔴 Rapid Client - a Minecraft Blatant Client. (DISCONTINUED SINCE 2021).
 
 # Operating Systems
  <img src ="https://user-images.githubusercontent.com/88702612/182359600-b6c32293-60a3-46c1-89a4-9299ccec2248.png" width="46" height="46" /> <img src ="https://user-images.githubusercontent.com/88702612/182361565-618e2dfd-ed55-469c-9069-f044ff03adf2.png" width="46" height="46" />
