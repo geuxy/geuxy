@@ -3,8 +3,8 @@ I am a 16 year old Self-Learning Developer.
 
 ![Geuxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=geuxy&show_icons=true&theme=dark)
 
-# Languages
-<img src ="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" width="46" height="46" />
+# Knowledge
+<img src ="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" width="46" height="46" /><img src ="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" width="46" height="46" />
 
 
 # Soon Learning
